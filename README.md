@@ -294,31 +294,7 @@ Possible future enhancements include:
 
 ---
 
-# 🖼️ Dashboard Preview
 
-## Overall Dashboard
-
-```md
-![Dashboard](screenshots/dashboard1.png)
-```
-
----
-
-## Revenue Dashboard
-
-```md
-![Dashboard](screenshots/dashboard2.png)
-```
-
----
-
-## Cancellation Dashboard
-
-```md
-![Dashboard](screenshots/dashboard3.png)
-```
-
----
 
 # 🎓 Learning Outcomes
 
